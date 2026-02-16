@@ -42,4 +42,5 @@ Identified performance trends, key drivers, and actionable insights to support d
 * View presentation for summary insights
 
 ---
-<img width="1373" height="749" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/0764b81a-20e2-4c75-9112-8a490a5cd955" />
+
+<img width="1570" height="856" alt="customer_shopping_analysis" src="https://github.com/user-attachments/assets/bc2bafbf-15fd-4387-9031-5a024d83ee5c" />
